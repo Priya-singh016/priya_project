@@ -1,4 +1,4 @@
-Task Management System
+**Task Management System**
 The Task Management System is a web application designed to streamline task assignment and tracking within an organization. It is built using a modern tech stack comprising React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for the database. The system incorporates robust user authentication and role-based access control to ensure data security and privacy.
 
 🌐 Features
