@@ -4,7 +4,8 @@
 
 The Task Management System is a web application designed to streamline task assignment and tracking within an organization. It is built using a modern tech stack comprising React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for the database. The system incorporates robust user authentication and role-based access control to ensure data security and privacy.
 
-🌐 Features
+🌐 **Features**
+
 User Authentication:
 
 The system provides secure authentication for both Managers and Users.
@@ -23,12 +24,12 @@ Rate limiters are implemented for authentication API endpoints to prevent brute-
 IP access control is enforced to restrict access to authorized users and devices.
 SSL certificate generation and utilization ensure encrypted communication between the server and client, enhancing overall system security.
 🖥️ Tech Stack
-Frontend:
+**Frontend:**
 
 React.js for building the user interface.
 Utilizes CSS and Bootstrap for styling.
 Incorporates React Bootstrap for enhanced UI components.
-Backend:
+**Backend:**
 
 Node.js with Express.js for server-side development.
 MongoDB serves as the data storage solution.
